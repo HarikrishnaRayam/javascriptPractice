@@ -1,0 +1,54 @@
+{
+  "basics": {
+      "name": "Rayam Harikrishna",
+      "label": "Programmer",
+      "image": "",
+      "email": "rayamharikrishna@gmail.com",
+      "phone": "+91 9963420447",
+      "summary": "3 years of experience in IT Operations. Looking for opportunites to solve new problems and explore new technologies.",
+      "location": {
+        "address": "kavali yadavalli",
+        "postalCode": "524234",
+        "city": "Nellore",
+        "countryCode": "India",
+        "state": "AndhraPradesh"
+      },
+      "profiles": [{
+        "network": "GitHub",
+        "username": "HarikrishnaRayam",
+        "url": "https://github.com/HarikrishnaRayam"
+      }]
+    },
+    "work": [{
+    "name": "DXC",
+    "position": "IT Operations",
+    "url": "https://dxc.com",
+    "startDate": "2018-11-28",
+    "endDate": "2021-12-12",
+    "summary": "Resolvings issues related to hardware and software and appliactions of HP employees"
+  }],
+  "education": [{
+    "institution": "JNTUA University",
+    "url": "https://jntua.ac.in/",
+    "area": "Electronics and Communication",
+    "studyType": "Bachelor",
+    "startDate": "2013-09-17",
+    "endDate": "2017-05-01",
+    "score": "6.9"
+  }],
+  "skills": [{
+    "name": "Full Stack Web Development",
+    "level": "Intermediate",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.Js",
+      "python"
+    ]
+  }],
+  "languages": [{
+    "language": "English,Telugu",
+    "fluency": "Native speaker"
+  }]
+}
